@@ -1,4 +1,4 @@
-# Tecno Origamid
+# Tecno
 
  Site criado a partir do projeto da Origamid, usando a biblioteca Vue.
 
